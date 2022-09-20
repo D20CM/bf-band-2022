@@ -1,0 +1,26 @@
+.topArea {
+  background-color: #3f3f3f;
+  color: white;
+  height: 100%;
+  width: 100%;
+
+}
+
+.title {
+  padding: 30px;
+  font-size: 3em;
+  background: linear-gradient(
+    122deg,
+    rgba(30, 38, 172, 1) 30%,
+    rgba(242, 255, 0, 1) 100%
+  );
+  margin: 0;
+
+  font-family: "Martel", serif;
+}
+
+#BF-band-logo {
+  height: 4rem;
+  padding-right: 1rem;
+}
+
